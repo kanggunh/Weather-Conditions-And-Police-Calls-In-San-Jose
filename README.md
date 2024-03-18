@@ -16,7 +16,6 @@ The data used in this project includes police call data obtained from the San Jo
 - `Weather_PreProcessing.ipynb`: Jupyter Notebook containing the preprocessing of weather data.
 - `Linear_Regression.ipynb`: Jupyter Notebook containing the linear regression model.
 - `Gradient_Boosting.ipynb`: Jupyter Notebook containing the gradient boosting model.
-- `data/`: Directory containing the raw data files. (Couldn't upload the actual data due to data capacity)
 - `README.md`: This README file.
 
 ## How to Run
