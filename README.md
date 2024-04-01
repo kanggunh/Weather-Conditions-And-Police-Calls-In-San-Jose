@@ -1,6 +1,7 @@
 # Police Call Prediction Based on Weather
 
-This project analyzes the relationship between weather conditions and police call volumes using linear regression and gradient boosting techniques.  
+This project analyzes the relationship between weather conditions and police call volumes using linear regression and gradient boosting techniques. 
+  
 Link to Report: [Weather Conditions and Police Calls in San Jose](https://github.com/kanggunh/DSC148-Project/blob/7660bf929889ac6a1b2449f6d1caf36af7973a5f/Weather%20Conditions%20and%20Police%20Calls%20in%20San%20Jose.pdf)
 
 ## Data Introduction
